@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Novachrono-DEVIL
+- 👋 Hi, I’m @Novachrono
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning coding
   
